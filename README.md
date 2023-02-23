@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+My first repository.
+I am a python devop having an interest in Data Science
